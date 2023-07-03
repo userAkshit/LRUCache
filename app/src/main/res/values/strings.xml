@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Dog Image Generation</string>
+    <string name="str_clear_data">Clear Data</string>
+    <string name="str_generate_image">Generate Image</string>
+    <string name="str_generate_dogs">Generate Dogs!</string>
+    <string name="str_my_recently_generated_dogs">My Recently Generated Dogs!</string>
+    <string name="str_generated_dog_image">Generated Dog Image</string>
+</resources>
